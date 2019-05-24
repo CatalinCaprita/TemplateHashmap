@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1558459947 source:c:\users\catalin\desktop\poolab\hashmap\main.cpp
+	<iostream>
+	"HashMap.h"
+	<string>
+	<assert.h>
+
+1558185917 source:c:\users\catalin\desktop\poolab\hashmap\src\hashmap.cpp
+	"HashMap.h"
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
+1558459838 c:\users\catalin\desktop\poolab\hashmap\include\hashmap.h
+	<iostream>
+	<exception>
+	<vector>
+	<list>
+	<utility>
+	<string>
+
